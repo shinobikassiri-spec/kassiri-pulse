@@ -1,15 +1,1 @@
-{
-  "name": "kassiri-pulse",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
-}
+{\n  \"name\": \"kassiri-pulse\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A Next.js project for Kassiri Pulse\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\"\n  },\n  \"dependencies\": {\n    \"next\": \"latest\",\n    \"react\": \"latest\",\n    \"react-dom\": \"latest\",\n    \"gray-matter\": \"latest\",\n    \"tailwindcss\": \"latest\"\n  },\n  \"devDependencies\": {\n    \"postcss\": \"latest\",\n    \"autoprefixer\": \"latest\"\n  },\n  \"keywords\": [],\n  \"author\": \"shinobikassiri-spec\",\n  \"license\": \"MIT\"\n}
